@@ -1,11 +1,9 @@
 ### Olá!! Me chamo Antonio, seja bem-vindo 🦊
 
  
-- 🖥️ Development Student - Fullstack 
-
-- 💼 Currently working at NTL as Apprentice Fullstack Developer.
- 
-- 🌱 Currently I'm studying Computer Engineering.
+🖥️ Junior Systems Analyst.
+💼 Currently part of the team at CDV - Central da Visão as a Junior Systems Analyst.
+🌱 I am currently completing my degree in Computer Engineering.
 
 ## 
 
