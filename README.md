@@ -1,9 +1,11 @@
 ### Olá!! Me chamo Antonio, seja bem-vindo 🦊
 
  
-🖥️ Junior Systems Analyst.
-💼 Currently part of the team at CDV - Central da Visão as a Junior Systems Analyst.
-🌱 I am currently completing my degree in Computer Engineering.
+- 🖥️ Junior Systems Analyst.
+
+- 💼 Currently part of the team at CDV - Central da Visão as a Junior Systems Analyst.
+
+- 🌱 I am currently completing my degree in Computer Engineering.
 
 ## 
 
